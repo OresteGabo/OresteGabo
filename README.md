@@ -26,18 +26,18 @@ informatique et je suis à la recherche de stage de 3 à 6 mois
 3. Tel: [0769097991](tel:+33769097991)
 ### Adresse
 ***
-rue: 11 rue des frères lumières.<br />
-code postale: 68350<br />
+rue: 11 rue de sochaux.<br />
+code postale: 68200<br />
+Ville: Mulhouse<br />
 pays: France<br />
 Mobilité pour le stage: Toute la France<br />
 ### Expériences
 ***
-Stage en développement mobile chez FRVB
-* Poste: Developpeur mobile (Flutter& dart) <br />
-* Entreprise : Rwanda Volleyball Federation<br />
-* Durée: 2mois (Le 9 Mai 2022, 1er Juillet 2022)<br />
-* Location: Rwanda/Kigali<br />
-* Sujet: Application mobile<br />
+Stage en développement web chez cdaf68
+* Poste: Developpeur web <br />
+* Entreprise : CDAFAL68 (cdafal68.eu) <br />
+* Durée: 6mois<br />
+* Sujet: Developpement d'un outil de gestion des adhérents avec un système d'authentification hierarchique<br />
 
 
 ## Technologies
@@ -57,7 +57,8 @@ La liste des technologies déjà utilisé dans des projets:
 <details>
 <summary>C++</summary>
 
-* Qt
+* Qt (plusieurs projets disponible sur ce compte github)
+* wxWidget
 </details>
 
 <details>
