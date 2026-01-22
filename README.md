@@ -1,122 +1,66 @@
-> Cette page ne représente pas mon cv complet, pour plus de renseignement, n'hesitez pas à me contacter sur mon adresse fourni sur cette page .<br />
-> For english users click here [English README.md]()
+# 🚀 Hello, I'm Oreste ! 
+### **M2 Computer Science & Mobility Student** | Future Software Engineer
 
-<!--
-## Table de matières
-1. [Profile](#general-info)
-2. [Contacte](#Contacte)
-3. [Adresse](#adresse)
-3. [Expérience](#experience)
-4. [Technologies](#technologies)
-5. [Installation](#installation)
-6. [Collaboration](#collaboration)
-7. [FAQs](#faqs)
+I am a Master 2 student at the **Université de Haute Alsace**, specializing in **Informatique et Mobilité**. Passionate about building high-performance applications, from low-level C++/Qt simulations to modern mobile ecosystems.
 
--->
-### Profile
-***
-Etudiant à l'université de Haute Alsace en informatique,
-Je suis passionné par la résolutions des problèmes
-informatique et je suis à la recherche de stage de 3 à 6 mois
-### Contacte
-***
-1. Github:[@OresteGabo](https://github.com/OresteGabo)
-2. Linkedin:[@OresteMg](https://www.linkedin.com/in/orestemg/)
-2. Email: [muhirwa.g.oreste@gmail.com](mailto:muhirwa.g.oreste@gmail.com)
-3. Tel: [0769097991](tel:+33769097991)
-### Adresse
-***
-rue: 11 rue de sochaux.<br />
-code postale: 68200<br />
-Ville: Mulhouse<br />
-pays: France<br />
-Mobilité pour le stage: Toute la France<br />
-### Expériences
-***
-Stage en développement web chez cdaf68
-* Poste: Developpeur web <br />
-* Entreprise : CDAFAL68 (cdafal68.eu) <br />
-* Durée: 6mois<br />
-* Sujet: Developpement d'un outil de gestion des adhérents avec un système d'authentification hierarchique<br />
+---
 
+## 🔍 Internship Search
+* **Role:** Software Engineer / Mobile Developer / C++ Developer
+* **Duration:** 6 months (End-of-studies internship)
+* **Start Date:** [Insert your start date, e.g., March 2026]
+* **Location:** Based in Mulhouse (68), France
+* **Mobility:** **Full France 🇫🇷** (Available to relocate)
 
-## Technologies
-***
-La liste des technologies déjà utilisé dans des projets:
+---
 
+## 🛠 Tech Stack & Expertise
 
-<details>
-<summary>Java</summary>
+| Area | Technologies |
+| :--- | :--- |
+| **Mobile** | **Android (Jetpack Compose, Kotlin/Java)**, Flutter, React Native |
+| **C++ / Desktop** | **Qt 6**, QGraphicsView, Multithreading, C++17/20 |
+| **Backend** | **Spring Boot (Java)**, Node.js, PHP (Laravel/Symfony), Flask |
+| **Frontend** | React, Vue.js, Angular, Sass/Less |
+| **Data & DevOps** | MySQL, PostgreSQL, Git, Bash, Docker |
 
-* Spring
-* Apache camel
-* Javax.Swing
-* JavaFx
-</details>
+---
 
-<details>
-<summary>C++</summary>
+## 🌟 Featured Projects
 
-* Qt (plusieurs projets disponible sur ce compte github)
-* wxWidget
-</details>
+### [🚗 Connected Cars Simulation (Qt6)](https://github.com/orestegabo/betterpjmap)
+*An optimized C++ simulation engine using OpenStreetMap data.*
+* **Challenge:** Rendering massive geospatial data while maintaining high FPS.
+* **Solution:** Implemented a **Database-First** approach (MySQL) and migrated to **QGraphicsView** with **Multithreaded drawing** for fluid car movements.
+* **Key Techs:** Qt 6, C++, SQL, XML Parsing.
 
-<details>
-  <summary>Web </summary>
+### [🎓 SchoolBridge Ecosystem](https://github.com/orestegabo/schoolbridgev2)
+*Full-stack educational platform for student-school interaction.*
+* **Mobile:** Modern Android application built with **Jetpack Compose**.
+* **API:** Scalable **Spring Boot** backend [available here](https://github.com/orestegabo/schoolbridgeApi).
+* **Key Techs:** Kotlin, Java, REST API, Spring Security.
 
-HTML
+---
 
+## 💼 Experience & Education
 
-  <details>
-    <summary>CSS3</summary>
+* **Master 2 Informatique et Mobilité** – Université de Haute-Alsace (Current)
+* **Web Developer Intern (6 months)** – CDAFAL 68
+    * Designed a membership management system with hierarchical authentication.
+    * *Stack:* PHP, MySQL, JavaScript.
 
-* Less
-* Sass
-  </details>
+---
 
-<details>
-    <summary>Javascript</summary>
+## 📬 Contact Me
 
-* jQuery
-* React
-* VueJs
-* NodeJs
-* Angular et AngularJS
-  </details>
+I'm looking for a team where I can contribute to complex technical challenges. Let's connect!
 
-<details>
-    <summary>php 8.1</summary>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orestemg/)](https://www.linkedin.com/in/orestemg/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhirwa.g.oreste@gmail.com)](mailto:muhirwa.g.oreste@gmail.com)
+[![Phone Badge](https://img.shields.io/badge/-07%2069%2009%2079%2091-34b7f1?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+33769097991)
 
-* Laravel
-* Symfony
-  </details>
-</details>
-<details>
-  <summary>Mobile</summary>
+---
 
-1. Android (Java et kotlin)
-2. Flutter (Dart)
-3. React Native
-
-</details>
-<details>
-  <summary>Autres</summary>
-
-
-<details>
-<summary>Python</summary>
-
-* Flask
-* Python pptx
-</details>
-
-<details>
-<summary>Script shell</summary>
-
-* Git: gestion de versions
-* Bash
-* Batch
-* Powershell
-</details>
-
-</details>
+<p align="center">
+  <i>"I'm passionate about solving complex computer problems and building the mobility solutions of tomorrow."</i>
+</p>
